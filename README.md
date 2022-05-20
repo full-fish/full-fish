@@ -1,4 +1,4 @@
-### Hi there 👋
+### 백엔드 지망하는 예비 개발자입니다
 
 <!--
 **full-fish/full-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
